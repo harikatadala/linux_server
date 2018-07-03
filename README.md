@@ -284,7 +284,7 @@ sudo apt-get upgrade
    
    now copy the contents of id_rsa.pub file (microsoft office file) and paste it in the grader. 
    
-   ## Test.pem file
+   ## test.pem file
    
    -----BEGIN RSA PRIVATE KEY-----
 MIIEowIBAAKCAQEAwBQAKY1XXBdlba92c4vvIzeC6mj7qtqQRjCFyRm7SU7McTe+
@@ -314,9 +314,9 @@ DKB3h3kC6FcatRmoEJ1QMQezpK+ZOOjemRNTbmffzBJlSVZvcaWUhU1lOS3a69C/
 SZPAW6OWnoEif0eqrAK8n/GJ5l4QdoW62cMfYuwJP9Mw+tZcpiew
 -----END RSA PRIVATE KEY-----
 
-      ## Privatekey.ppk file
-   
-   PuTTY-User-Key-File-2: ssh-rsa
+      ## privatekey.ppk file
+```
+  PuTTY-User-Key-File-2: ssh-rsa
 Encryption: none
 Comment: imported-openssh-key
 Public-Lines: 6
@@ -342,7 +342,7 @@ AIBT3PvSVFamF+JAfzaBrbsD7C7/e85ljarW8zW7fA0aTJqwbbpsDFr5Xgygd4d5
 AuhXGrUZqBCdUDEHs6SvmTjo3pkTU25n38wSZUlWb3GllIVNZTkt2uvQv0mTwFuj
 lp6BIn9HqqwCvJ/xieZeEHaFutnDH2LsCT/TMPrWXKYnsA==
 Private-MAC: 0d1c91e8b7ace4358510a40814ac15085f72bb52
-
+```
    
    ## id_rsa file
    
