@@ -290,9 +290,10 @@ sudo apt-get upgrade
    
    now copy the contents of id_rsa.pub file (microsoft office file) and paste it in the grader. 
    
-   ## Test.pem file
+   ## test.pem file
    
    -----BEGIN RSA PRIVATE KEY-----
+   ```
 MIIEowIBAAKCAQEAwBQAKY1XXBdlba92c4vvIzeC6mj7qtqQRjCFyRm7SU7McTe+
 bLw1rCO9abxm+mPD3gB6dEGru4RmuZpvEjj/JhsXk9nq+PCtrRzvuKyPHF5AqUK3
 Ju0WLovN3F8fRbRMwbg80aF6YLwDBJu1Xml6MztiaKazhsN8UWsJgwM05L7IvqBV
@@ -319,8 +320,10 @@ LEP+3QKBgFPc+9JUVqYX4kB/NoGtuwPsLv97zmWNqtbzNbt8DRpMmrBtumwMWvle
 DKB3h3kC6FcatRmoEJ1QMQezpK+ZOOjemRNTbmffzBJlSVZvcaWUhU1lOS3a69C/
 SZPAW6OWnoEif0eqrAK8n/GJ5l4QdoW62cMfYuwJP9Mw+tZcpiew
 -----END RSA PRIVATE KEY-----
+```
 
-      ## Privatekey.ppk file
+      ## privatekey.ppk file
+      ```
    
    PuTTY-User-Key-File-2: ssh-rsa
 Encryption: none
@@ -348,11 +351,13 @@ AIBT3PvSVFamF+JAfzaBrbsD7C7/e85ljarW8zW7fA0aTJqwbbpsDFr5Xgygd4d5
 AuhXGrUZqBCdUDEHs6SvmTjo3pkTU25n38wSZUlWb3GllIVNZTkt2uvQv0mTwFuj
 lp6BIn9HqqwCvJ/xieZeEHaFutnDH2LsCT/TMPrWXKYnsA==
 Private-MAC: 0d1c91e8b7ace4358510a40814ac15085f72bb52
+```
 
    
    ## id_rsa file
    
    -----BEGIN RSA PRIVATE KEY-----
+   ```
 MIIEogIBAAKCAQEAuDJIskKEx3E4m53381UvHUK2VOxOSvkQT++HjWpvNjSiN0qB
 XeFOU4oHR5/iBYvTvXDWeAyFriGzDFoLfmiDEzKBcfrotB9WH4wlozP/W5k6Oq5Y
 nXrKqS2pLwpuGT7CJG7Cv4cW+N6Rmc7AKhKptuvCWByqoBWtqX1rBI9z40WY4Hnc
@@ -379,11 +384,13 @@ OPNhAoGAMyfzaUYZC/fBnoeRt/3mzimyNHdhajG9LAzGWj6l6VLsKZe8YtfsZZdy
 POcCAwqtQeJkLOMpBbTMKDV9wv60RBau6aUwWeWBA0KGahQ4CFawDt8eB9k6PjMQ
 cLXK4i7P0a1jT3JYo82iT4GXYAJOsCk3NVsTMNXhr0LAZRLmKuw=
 -----END RSA PRIVATE KEY-----
+```
 
    
    ## id_rsa.pub file
-   
+   ```
   ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4MkiyQoTHcTibnffzVS8dQrZU7E5K+RBP74eNam82NKI3SoFd4U5TigdHn+IFi9O9cNZ4DIWuIbMMWgt+aIMTMoFx+ui0H1YfjCWjM/9bmTo6rlidesqpLakvCm4ZPsIkbsK/hxb43pGZzsAqEqm268JYHKqgFa2pfWsEj3PjRZjgedxvLj6b4QX2R9VKOoNaRp/P43UQesvM/ZZEuxZvG1lL3Lwe+D1Q3Ehj/Hl0Lzk/3X/MN30DKwWyMr1Ps1mHCvjPGTCfVCO0dYEo8Sc4/wPY/nteKkF9IA72YgKGxTCj5ELI2mXFN45HxPRtvnu3N7aJ21TqbTTShLbrE5gh Tarun Tadala@TarunTadala
+  ```
 
 
 
